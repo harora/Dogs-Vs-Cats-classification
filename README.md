@@ -6,10 +6,4 @@ This is a basic network for Dog vs Cat Classification Problem on Kaggle Playgrou
 
 Cat-Dog Net (Kernel of @[jeffd23][1])
 
-## Sample Predictions
-Following are the probability scores of few detections
-
-0.927 |  ![](http://i.imgur.com/wRJhI4F.jpg)  |
-
-
 [1]:https://www.kaggle.com/jeffd23
