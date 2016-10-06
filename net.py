@@ -12,12 +12,12 @@ CHANNELS = 3
 
 def fetch_data():
 
-		train_dogs =   [TRAIN_PATH+i for i in os.listdir(TRAIN_PATH) if 'dog' in i]
-		train_cats =   [TRAIN_PATH+i for i in os.listdir(TRAIN_PATH) if 'cat' in i]
-		train_files =  train_dogs[:1000] + train_cats[:1000]
-		random.shuffle(train_files)
+	train_dogs =   [TRAIN_PATH+i for i in os.listdir(TRAIN_PATH) if 'dog' in i]
+	train_cats =   [TRAIN_PATH+i for i in os.listdir(TRAIN_PATH) if 'cat' in i]
+	train_files =  train_dogs[:1000] + train_cats[:1000]
+	random.shuffle(train_files)
 
-		return train_files
+	return train_files
 
 def generate_label(path):
 	if 'dog' in path:
