@@ -4,7 +4,7 @@ This is a basic network for Dog vs Cat Classification Problem on Kaggle Playgrou
 
 ## References
 
-Cat-Dog Net (Kernel of @[jeffd23](1))
+Cat-Dog Net (Kernel of @[jeffd23][1])
 
 
 [1]:https://www.kaggle.com/jeffd23
