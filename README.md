@@ -9,7 +9,7 @@ Cat-Dog Net (Kernel of @[jeffd23][1])
 ## Sample Predictions
 Following are the probability scores of few detections
 
-0.927 |  []!(http://imgur.com/a/W0wbV)  |
+0.927 |  ![](http://imgur.com/a/W0wbV)  |
 
 
 [1]:https://www.kaggle.com/jeffd23
